@@ -10,7 +10,7 @@ import (
 	"bytes"
 )
 
-var url = "https://www.mogo.ca/health"
+var url = "" // some url
 
 type Resource struct {
 	url string
